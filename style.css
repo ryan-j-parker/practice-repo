@@ -1,0 +1,47 @@
+
+:root {
+    --blue-saphire: #22577A;
+    --red-crayola: #EF2D56;
+    --lavender: #DBCBD8;
+    --light-green: #90ED99;
+    --amber: #FFBD00;
+    --capri: #30C5FF;
+
+}
+
+html {
+    background-color: var(--lavender);
+
+}
+
+h1 {
+    font-family: 'Press Start 2P', 'Arcade Classic', serif;
+    text-align: center;
+    color: var(--red-crayola);
+}
+
+h2 {
+
+
+}
+
+h3 {
+
+
+}
+
+.div1 {
+
+
+}
+
+#para1 {
+
+
+}
+
+#para2 {
+
+
+
+}
